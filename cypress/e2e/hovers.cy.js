@@ -1,6 +1,5 @@
 
 
-
 it('deve exibir o nome da tecnologia ao passar o mouse', function () {
     cy.visit('/hovers')
 

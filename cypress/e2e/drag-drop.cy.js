@@ -2,7 +2,7 @@
 
 describe('Drag And Drop', function(){
 
-    before(function(){
+    beforeEach(function(){
         cy.visit('/drag_and_drop')
 
     })
