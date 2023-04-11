@@ -20,6 +20,6 @@ steps:
   displayName: 'npm install'
 
 - script: |
-    npm cypress run
+    npx cypress run
   displayName: 'Rodando os testes e2e'
   continueOnError: true
